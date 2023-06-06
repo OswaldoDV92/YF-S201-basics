@@ -516,6 +516,7 @@ pssbd0_bit
 pssbd1
 pssbd1_bit
 pstrcon
+pulses
 pulsr
 pulsr_bit
 pulss

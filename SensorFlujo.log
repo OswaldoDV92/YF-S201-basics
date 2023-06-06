@@ -1,13 +1,13 @@
-0	1	mikroCPIC1618.exe -MSF -DBG -pP16F886 -C -Y -DL -O1111110-1 -fo8 -N"C:\Users\amara\Documents\MikroC\SensorFlujo\SensorFlujo.mcppi" -SP"C:\Users\Public\Documents\Mikroelektronika\mikroC PRO for PIC\Defs\" -SP"C:\Users\Public\Documents\Mikroelektronika\mikroC PRO for PIC\Uses\P16\" -SP"C:\Users\amara\Documents\MikroC\SensorFlujo\" -IP"C:\Users\Public\Documents\Mikroelektronika\mikroC PRO for PIC\Uses\P16\" "SensorFlujo.c" "__Lib_Math.mcl" "__Lib_MathDouble.mcl" "__Lib_System.mcl" "__Lib_Delays.mcl" "__Lib_CString.mcl" "__Lib_Conversions.mcl" "__Lib_UART_c67.mcl"	 
+0	1	mikroCPIC1618.exe -MSF -DBG -pP16F886 -C -Y -DL -O1111110-1 -fo4 -N"C:\Users\amara\Documents\MikroC\SensorFlujo\SensorFlujo.mcppi" -SP"C:\Users\Public\Documents\Mikroelektronika\mikroC PRO for PIC\Defs\" -SP"C:\Users\Public\Documents\Mikroelektronika\mikroC PRO for PIC\Uses\P16\" -SP"C:\Users\amara\Documents\MikroC\SensorFlujo\" -IP"C:\Users\Public\Documents\Mikroelektronika\mikroC PRO for PIC\Uses\P16\" "SensorFlujo.c" "__Lib_Math.mcl" "__Lib_MathDouble.mcl" "__Lib_System.mcl" "__Lib_Delays.mcl" "__Lib_CString.mcl" "__Lib_Conversions.mcl" "__Lib_UART_c67.mcl"	 
 hint: 0	1139	Available RAM: 352 [bytes], Available ROM: 8192 [bytes]	 
 diagnostics: 0	122	Compilation Started	SensorFlujo.c
-warning: 38	1509	Generated baud rate is 9615 bps (error = 0.16 percent)	SensorFlujo.c
-diagnostics: 103	123	Compiled Successfully	SensorFlujo.c
-hint: 43	1164	Variable 'flowrate' has been eliminated by optimizer	SensorFlujo.c
+warning: 35	1509	Generated baud rate is 9615 bps (error = 0.16 percent)	SensorFlujo.c
+diagnostics: 80	123	Compiled Successfully	SensorFlujo.c
+hint: 53	1164	Variable 'waterflow' has been eliminated by optimizer	SensorFlujo.c
 diagnostics: 0	127	All files Compiled in 125 ms	 
-hint: 0	1144	Used RAM (bytes): 107 (30%)  Free RAM (bytes): 245 (70%)	Used RAM (bytes): 107 (30%)  Free RAM (bytes): 245 (70%)
-hint: 0	1144	Used ROM (program words): 2343 (29%)  Free ROM (program words): 5849 (71%)	Used ROM (program words): 2343 (29%)  Free ROM (program words): 5849 (71%)
+hint: 0	1144	Used RAM (bytes): 87 (25%)  Free RAM (bytes): 265 (75%)	Used RAM (bytes): 87 (25%)  Free RAM (bytes): 265 (75%)
+hint: 0	1144	Used ROM (program words): 1747 (21%)  Free ROM (program words): 6445 (79%)	Used ROM (program words): 1747 (21%)  Free ROM (program words): 6445 (79%)
 diagnostics: 0	125	Project Linked Successfully	SensorFlujo.mcppi
 diagnostics: 0	128	Linked in 62 ms	 
-diagnostics: 0	129	Project 'SensorFlujo.mcppi' completed: 234 ms	 
-diagnostics: 0	103	Finished successfully: 05 jun. 2023, 15:37:10	SensorFlujo.mcppi
+diagnostics: 0	129	Project 'SensorFlujo.mcppi' completed: 219 ms	 
+diagnostics: 0	103	Finished successfully: 06 jun. 2023, 15:30:07	SensorFlujo.mcppi
