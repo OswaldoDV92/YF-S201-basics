@@ -5,4 +5,4 @@ Check the waterflow every second and accumulate the volume.
 
 Print the waterflow and volume.
 
-Blink an led to know it's working.
+Blink an LED  to know  the device it's working.
